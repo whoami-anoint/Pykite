@@ -1,5 +1,3 @@
-#Python3 Program to print Kite Pattern
-
 # Python3 Program to print johnite Pattern
 if __name__ == '__main__':
  
@@ -58,7 +56,5 @@ if __name__ == '__main__':
         if ((i % 2) != 0):
             print()
             alien -= 1
-        
-        # Code by Abhishek Kafle (Anoint)
-        #@anoint.02
  
+ # @anoint.02
