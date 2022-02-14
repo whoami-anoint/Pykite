@@ -2,6 +2,8 @@
 <br>
 Simple python code to make kite pattern.
 
+<a href="https://ibb.co/N3cxrZ8"><img src="https://i.ibb.co/GJz79cK/Screenshot-2022-02-14-110843.jpg" alt="Screenshot-2022-02-14-110843" border="0"></a>
+
 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
