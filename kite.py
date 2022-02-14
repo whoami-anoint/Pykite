@@ -1,4 +1,4 @@
-Python3 Program to print Kite Pattern
+#Python3 Program to print Kite Pattern
 
 # Python3 Program to print johnite Pattern
 if __name__ == '__main__':
