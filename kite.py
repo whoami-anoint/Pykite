@@ -1,4 +1,4 @@
-# Python3 Program to print johnite Pattern
+# Python Program to print Kite Pattern
 if __name__ == '__main__':
  
     alien = 4
