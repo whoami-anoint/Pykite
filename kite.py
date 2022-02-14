@@ -2,7 +2,7 @@
 if __name__ == '__main__':
  
     alien = 4
-    space = '$'
+    space = '*'
  
     for i in range (1, 6):
  
@@ -10,7 +10,7 @@ if __name__ == '__main__':
         for motu in range(alien, 0, -1):
             print(end = " ")
  
-        # For printing the $
+        # For printing the *
         for patlu in range(1, i + 1):
             print(space, end = "")
  
